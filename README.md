@@ -1,7 +1,5 @@
 
 
-```python
-"""
 # FRANZ — Vision-Action Loop Desktop Controller with Ghost Memory
 
 ```
@@ -591,6 +589,4 @@ If unsure, output actions:[] and explain in observation.
 3. Edit config.py: set CAPTURE_CROP, adjust SYSTEM_PROMPT if needed
 4. Run: python main.py
 5. Browser opens automatically. The loop begins.
-```
-"""
 ```
