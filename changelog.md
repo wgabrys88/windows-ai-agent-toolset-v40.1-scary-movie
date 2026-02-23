@@ -1,4 +1,4 @@
-"""
+```
 FRANZ CHANGELOG
 ===============
 
@@ -436,4 +436,4 @@ BROWSER ANNOTATION TIMEOUT
 ---------------------------
 ORIGINAL: infinite (engine waits forever for browser)
 FINAL:    ANNOTATED_TIMEOUT_SECONDS (default 10.0), falls back to raw frame
-"""
+```
